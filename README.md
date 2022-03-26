@@ -1,6 +1,6 @@
 # Project 3 - *Instagram Clone*
 
-**Name of your app** is a photo sharing app similar to Instagram but using Parse as its backend.
+**Instagram by SBH** is a photo sharing app similar to Instagram but using Parse as its backend.
 
 Time spent: **5** hours spent in total
 
